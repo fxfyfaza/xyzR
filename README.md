@@ -8,7 +8,7 @@ Collectively gather your target information with xyzR. By integrating directory 
 
 
 [![GitHub issues](https://img.shields.io/github/issues/fxfyfaza/xyzR.svg)](https://github.com/fxfyfaza/xyzR/issues)
-[![Github Stars](https://img.shields.io/github/stars/LazyCats07/xyzR.svg?style=social&label=Stars)](https://github.com/fxfyfaza/xyzR)
+[![Github Stars](https://img.shields.io/github/stars/fxfyfaza/xyzR.svg?style=social&label=Stars)](https://github.com/fxfyfaza/xyzR)
 [![GitHub Followers](https://img.shields.io/github/followers/fxfyfaza.svg?style=social&label=Follow)](https://github.com/fxfyfaza)
 [![Follow on LinkedIn](https://img.shields.io/badge/Follow%20on%20LinkedIn-%230077B5.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/fazafajarr/)
 
