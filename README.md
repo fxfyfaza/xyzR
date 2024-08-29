@@ -34,8 +34,13 @@ Jalankan Tools menggunakan command `python3`
   python3 xyzR.py
 
 ```  
+## Usage
 
+[![Alt Text](img/Youtube.png)](https://youtu.be/3O8JYASH_rA)
 
+```bash
+Click the Demo Above!
+```
 
 
 
