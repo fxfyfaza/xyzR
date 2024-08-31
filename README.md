@@ -56,7 +56,7 @@ Click the Demo Above!
 - [@fxfyfaza](https://github.com/fxfyfaza/)
 
 ## SPECIAL THANKS TO
-- [@yassineaboukir](https://gist.github.com/yassineaboukir) for the [List and API endpoints and objects](https://gist.github.com/yassineaboukir/8e12adefbd505ef704674ad6ad48743d)
+- [@yassineaboukir](https://gist.github.com/yassineaboukir) for the [List of API endpoints and objects](https://gist.github.com/yassineaboukir/8e12adefbd505ef704674ad6ad48743d)
 - [@rbcscan](https://github.com/rbsec) for the [Subdomains List](https://github.com/rbsec/dnscan)
 
 ## CONTRIBUTE
